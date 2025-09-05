@@ -1,0 +1,45 @@
+commit ebb4cc0e40c51c0ea24238d16564f511fe507349
+Merge: 4b4d939 44b28c6
+Author: Royce <jamersroy@yahoo.com>
+Date:   Thu Sep 4 22:59:26 2025 -0700
+
+    Resolve merge conflict: keep food and movie selections
+
+commit 44b28c6b1630b8951c268030eb75fb13eebcd74f
+Author: Royce <jamersroy@yahoo.com>
+Date:   Thu Sep 4 22:48:25 2025 -0700
+
+    Add favorite movie/game div to index.html in index-fix
+
+commit 4b4d9397781cb67d70db5878213cb6f68e999b3c
+Author: Royce <jamersroy@yahoo.com>
+Date:   Thu Sep 4 22:37:03 2025 -0700
+
+    Add favorite food dic to index.html in main branch
+
+commit a2e3f6b10d2147864dcab04f081c4ad05565f32f
+Author: Royce <jamersroy@yahoo.com>
+Date:   Thu Sep 4 22:05:52 2025 -0700
+
+    Add README.md describing the repo
+
+commit c007a376f2c5ce98226d65b01edf79e0886bdb63
+Merge: 1d2bfc0 087609b
+Author: RJ281 <87922849+RJ281@users.noreply.github.com>
+Date:   Thu Sep 4 21:44:12 2025 -0700
+
+    Merge pull request #1 from RJ281/info-fill
+    
+    I hope it works this time
+
+commit 087609b321729b16e54f4036e512e0db7aa24aa5
+Author: Royce <jamersroy@yahoo.com>
+Date:   Thu Sep 4 21:08:04 2025 -0700
+
+    I hope it works this time
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
